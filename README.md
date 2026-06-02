@@ -63,4 +63,4 @@ GitHub:
 https://github.com/tefokomane
 
 Portfolio:
-(Add your portfolio link here once deployed)
+https://tefokomane.github.io/tefokomane_portfolio_website/
